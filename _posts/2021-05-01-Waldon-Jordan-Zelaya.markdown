@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "UNKUS, LLIXLLAS, ISKAYOS Y WAYLLASAS. LA INDUMENTARIA ANDINA, SU USO TRADICIONAL Y EL APORTE DE DATOS PARA SU COMPRENSIÓN A PARTIR DEL ANÁLISIS ICONOGRÁFICO DEL CUADRO “EL INFIERNO” DE LA SERIE DE LAS POSTRIMERÍAS DE CARABUCO"
+title:  "Unkus, Llixllas, Iskayos y Wayllasas. La indumentaria Andina, su uso tradicional y el aporte de datos para su comprensión a partir del análisis iconográfico del cuadro “EL INFIERNO” de la serie de las postrimerías de Carabuco"
 date:   2021-05-01 20:13:20 -0500
 ---
 Este texto fue escrito por `Waldo Jordan Zalaya`
